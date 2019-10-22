@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Computer Science & GIS Resources"
+title                    : "The Quack Lab"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
