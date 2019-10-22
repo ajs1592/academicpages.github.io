@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-<b> Hello World </b>
+<b> My Basic ChatBot in Python </b>
+
+<iframe height="400px" width="100%" src="https://repl.it/@aschenk/BasicChatBot?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
+
+<b> My Favorite Scratch Project </b>
+
+<iframe src="https://scratch.mit.edu/projects/330470914/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 <iframe height="400px" width="100%" src="https://repl.it/@aschenk/guessingGame?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
 
