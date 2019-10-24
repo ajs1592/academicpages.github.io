@@ -8,6 +8,12 @@ redirect_from:
   - /about.html
 ---
 
+<b> Big Data </b>
+<b> Kim Kardashian vs. Taylor Swift </b>
+
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1982_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/0dl567","geo":"US","time":"now 7-d"},{"keyword":"/m/0261x8t","geo":"US","time":"now 7-d"}],"category":0,"property":""}, {"exploreQuery":"q=%2Fm%2F0dl567,%2Fm%2F0261x8t&date=now%207-d&geo=US","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
+
+
 <b> My Basic ChatBot in Python </b>
 
 <iframe height="400px" width="100%" src="https://repl.it/@aschenk/BasicChatBot?lite=true" scrolling="no" frameborder="no" allowtransparency="true" allowfullscreen="true" sandbox="allow-forms allow-pointer-lock allow-popups allow-same-origin allow-scripts allow-modals"></iframe>
