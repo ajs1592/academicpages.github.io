@@ -8,13 +8,5 @@ date: 2015-01-01
 location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+<b> Big Data </b>
+<script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/1982_RC01/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/0dl567","geo":"US","time":"now 7-d"},{"keyword":"/m/0261x8t","geo":"US","time":"now 7-d"}],"category":0,"property":""}, {"exploreQuery":"q=%2Fm%2F0dl567,%2Fm%2F0261x8t&date=now%207-d&geo=US","guestPath":"https://trends.google.com:443/trends/embed/"}); </script> 
