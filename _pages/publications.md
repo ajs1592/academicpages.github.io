@@ -5,12 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<h2> Unit 1 Primitive Types </h2>
+<h2> Unit 2 Using Objects </h2>
+<h2> Unit 3 Boolean Expressions and if Statements </h2>
+<h2> Unit 4 Iteration </h2>
